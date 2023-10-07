@@ -1,6 +1,6 @@
 # DCTNet: Depth-Cooperated Trimodal Network for Video Salient Object Detection
 
-This repository provides PyTorch code implementation for DCTNet: Depth-Cooperated Trimodal Network for Video Salient Object Detection [[Arxiv](https://arxiv.org/pdf/2202.06060.pdf)]
+This repository provides PyTorch code implementation for DCTNet: Salient Object Detection in RGB-D Videos [[Arxiv](https://arxiv.org/pdf/2202.06060.pdf)]
 
 
 <p align="center">
