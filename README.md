@@ -11,7 +11,7 @@ This repository provides PyTorch code implementation for DCTNet+: Salient Object
 </p>
 
 <p align="center">
-    <img src="pictures/Fig_combination.png" width="100%"/> <br />
+    <img src="Fig/Fig_combination.png" width="100%"/> <br />
  <em> 
     Combination of RGB-D SOD and VSOD
     </em>
