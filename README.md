@@ -11,10 +11,9 @@ This repository provides PyTorch code implementation for DCTNet+: Salient Object
 </p>
 
 <p align="center">
-    <img src="pictures/Fig_visual_compare_nodepth.png" width="70%"/> <br />
+    <img src="pictures/Fig_combination.png" width="100%"/> <br />
  <em> 
-     Effectiveness of leveraging depth to assist VSOD. OF denotes optical flow, and GT represents ground truth. <br />
-    Column (e) and (f) are predictions from our full model (with depth) and its variant (without depth), respectively.
+    Combination of RGB-D SOD and VSOD
     </em>
 </p>
 
