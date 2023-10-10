@@ -4,7 +4,7 @@ This repository provides PyTorch code implementation for DCTNet+: Salient Object
 
 
 <p align="center">
-    <img src="pictures/Fig_Overview.pdf" width="100%"/> <br />
+    <img src="Fig/Fig_overview.png" width="100%"/> <br />
  <em> 
      Overview of DCTNet. (a) shows the big picture. (b) and (c) show the details of MAM and RFM, respectively.
     </em>
