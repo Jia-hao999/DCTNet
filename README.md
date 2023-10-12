@@ -105,21 +105,8 @@ SSAV，PCSA and TENet are trained and fine-tuned on DAVIS and DAVSOD. The compar
 3. The saliency maps of the SOTA methods on 5 benchmark datasets(DAVIS,DAVSOD,FBMS,SegTrack-V2,VOS) can be download from [Baidu Driver] (https://pan.baidu.com/s/10i5ADy4iSSwydy04Enf27w) (PSW: wfqc)
 4. Evaluation Toolbox: We use the standard evaluation toolbox from [DAVSOD benchmark](https://github.com/DengPingFan/DAVSOD).
 
-## A new RGB-D VSOD dataset (with realistic depth, coming soon):
+## Our new RGB-D VSOD dataset (RDVS):
 
 We have constructed a new RGB-D VSOD dataset, whose depth is realistic, rather synthesized....
 
-## Citation
-
-Please cite our paper if you find this work useful:
-
-```
-@inproceedings{lu2022depth,
-  title={Depth-Cooperated Trimodal Network for Video Salient Object Detection},
-  author={Lu, Yukang and Min, Dingyao and Fu, Keren and Zhao, Qijun},
-  booktitle={2022 IEEE International Conference on Image Processing (ICIP)},
-  year={2022},
-  organization={IEEE}
-}
-```
 
