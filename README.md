@@ -100,8 +100,10 @@ SSAV，PCSA and TENet are trained and fine-tuned on DAVIS and DAVSOD. The compar
 
 ## For evaluation:
 
-1. The saliency maps can be download from [Baidu Driver](https://pan.baidu.com/s/10i5ADy4iSSwydy04Enf27w) (PSW: wfqc)
-2. Evaluation Toolbox: We use the standard evaluation toolbox from [DAVSOD benchmark](https://github.com/DengPingFan/DAVSOD).
+1. The saliency maps of the SOTA methods in different fields on RDVS testing set (realistic depth map) can be download from [Baidu Driver](https://pan.baidu.com/s/10i5ADy4iSSwydy04Enf27w) (PSW: wfqc)
+2. The saliency maps of the SOTA methods on RDVS testing set (synthetic depth map) can be download from [Baidu Driver] (https://pan.baidu.com/s/10i5ADy4iSSwydy04Enf27w) (PSW: wfqc)
+3. The saliency maps of the SOTA methods on 5 benchmark datasets(DAVIS,DAVSOD,FBMS,SegTrack-V2,VOS)
+4. Evaluation Toolbox: We use the standard evaluation toolbox from [DAVSOD benchmark](https://github.com/DengPingFan/DAVSOD).
 
 ## A new RGB-D VSOD dataset (with realistic depth, coming soon):
 
